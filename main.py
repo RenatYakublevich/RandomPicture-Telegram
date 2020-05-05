@@ -9,7 +9,7 @@ import subprocess
 from bs4 import BeautifulSoup as BS
 from bs4 import BeautifulSoup
 
-bot = telebot.TeleBot('1169789938:AAEhYYHENsallSaGJzGsF5Vb_Z2R7SvSqvA')
+bot = telebot.TeleBot('1169789938:AAEhYYHENsallSaGJzGsF5Vb_Z2R7SvSqv')
 
 
 	
